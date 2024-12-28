@@ -1,5 +1,7 @@
 # Form Builder Application
 
+ **POSTMAN COLLECTION** : https://documenter.getpostman.com/view/37271849/2sAYJ6CzZD
+
 This project is a Django-based Form Builder application inspired by Google Forms. It allows administrators to create forms, users to submit responses, and provides analytics for form responses.
 
 ---
